@@ -1,0 +1,6 @@
+functions-framework==3.*
+google-cloud-aiplatform
+google-cloud-aiplatform[pipelines]
+google-cloud-storage
+google-auth
+requests
